@@ -1,4 +1,3 @@
-# Calorie-Burnt-Prediction
 # Calories Burnt Prediction
 
 ## Project Description
